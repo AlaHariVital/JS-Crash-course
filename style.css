@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+}
+.container{
+    text-align: center;
+   margin: auto;
+   width: 500px;
+   overflow: auto;
+    padding: 1rem;
+    background-color: antiquewhite;
+}
+
+.division{
+    padding: 1rem;
+}
+
+#myForm  lable{
+    display: block;
+}
+
+.bg-dark{
+    color: white;
+    background-color: green;
+}
+.error{
+    text-size-adjust: small;
+    color: red;
+}
